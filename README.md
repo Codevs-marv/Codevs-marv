@@ -3,7 +3,7 @@
   
 <div align="center">
   <span>
-  <h1 align="center">Hello, I'm Marco Rodríguez,</h1>
+  <h1 align="center">Hello, I'm Marco Rodríguez</h1>
   <h4 align="center">I´m a Systems Engineering student </h4>
   </span>
 </div>
@@ -11,9 +11,7 @@
 -----
 
 <div align="center">
-  <a>
     <img src="https://github.com/MARV1904/MARV1904/blob/main/resources/img/grid-snake.svg" alt="snake">
-  </a>
 </div>
 
 
